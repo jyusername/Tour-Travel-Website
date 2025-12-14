@@ -16,7 +16,7 @@
     <style>
         header::before {
             position: absolute;
-            content: "";
+            content: ""; 
             height: 100%;
             width: calc(100% - 2rem);
             top: 50%;
